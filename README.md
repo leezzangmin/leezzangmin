@@ -13,10 +13,6 @@
 - 🤔 I'm interested in `deep RDB(MySQL)`, `program solving`, `java and spring ecosystem`
 - 😄 aka: `zzangmin`, `kingwangchang min`
 
-[[백준 프로필](https://www.acmicpc.net/user/ckdals7584)]<br>
-<img width="831" alt="스크린샷 2022-07-06 오후 10 59 02" src="https://user-images.githubusercontent.com/64303390/177567810-8a99f24e-0411-406f-9016-36a3b696b1d4.png">
-
-
 ### Skill
 
 - Language: 
@@ -77,7 +73,7 @@
 
 ### Repositories
 
-- 
+- [게시판 프로젝트(개인)](https://github.com/leezzangmin/SpringCafeProject)
 
 ### Contribution
 
