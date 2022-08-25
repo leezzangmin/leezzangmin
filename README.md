@@ -43,6 +43,7 @@
 <br>
 🏢 교육:<br>
 - CodeSquad 2022 Masters Course Java Backend 참여 (2022.01 ~ 2022.06) https://codesquad.kr/<br><br>
+- 패스트캠퍼스 2022 핀테크 서비스 백엔드 개발자 취업과정 채점멘토 참여 https://fastcampus.co.kr/b2b_MegabyteSchool_backend
 
 📄 독서:<br>
 - [자바의 정석](http://www.yes24.com/Product/Goods/24259565)
