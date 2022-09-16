@@ -2,7 +2,7 @@
 
 맹목적인 공부보다 가성비와 목적을 찾는 학습을 좋아합니다.
 특히 다른 사람들의 기록물을 통해 공부하는 것을 즐깁니다. 오전에는 CS를 공부하고, 오후에는 개인 프로젝트, 저녁에는 개발서적을 읽기를 지향합니다.
-언어에 덜 구애받는 백엔드 공통 언어 RDB를 특히 좋아합니다. Java 백엔드 개발자 타이틀을 달고 첫 직장을 찾고 있지만, 가진 지식에 구애받지 않는 개발자가 되려 노력합니다.
+언어에 덜 구애받는 백엔드 공통 언어 RDB를 특히 좋아합니다. 가진 지식에 구애받지 않는 개발자가 되려 노력합니다.
 
 - 📝 My Resume: `coming soon...`
 - 📫 How to reach me: `ckdals12345678@gmail.com`
@@ -19,7 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Python3](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 - Backend: ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
-- DevOps: ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat&logo=github%20actions&logoColor=white)
+- DevOps: ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat&logo=github%20actions&logoColor=white) ![Ngrinder](https://img.shields.io/badge/-ngrinder-brightgreen)
 
 ### Tools
 
@@ -42,8 +42,8 @@
 
 <br>
 🏢 교육:<br>
-- CodeSquad 2022 Masters Course Java Backend 참여 (2022.01 ~ 2022.06) https://codesquad.kr/<br><br>
-- 패스트캠퍼스 2022 핀테크 서비스 백엔드 개발자 취업과정 채점멘토 참여 https://fastcampus.co.kr/b2b_MegabyteSchool_backend
+- CodeSquad 2022 Masters Course Java Backend 참여 (2022.01 ~ 2022.06) https://codesquad.kr/<br>
+- 패스트캠퍼스 2022 핀테크 서비스 백엔드 개발자 취업과정 채점멘토 참여 https://fastcampus.co.kr/b2b_MegabyteSchool_backend<br>
 
 📄 독서:<br>
 - [자바의 정석](http://www.yes24.com/Product/Goods/24259565)
