@@ -4,7 +4,7 @@
 특히 다른 사람들의 기록물을 통해 공부하는 것을 즐깁니다. 오전에는 CS를 공부하고, 오후에는 개인 프로젝트, 저녁에는 개발서적을 읽기를 지향합니다.
 언어에 덜 구애받는 백엔드 공통 언어 RDB를 특히 좋아합니다. 가진 지식에 구애받지 않는 개발자가 되려 노력합니다.
 
-- 📝 My Resume: `coming soon...`
+- 📝 My Resume: [`노션`](https://www.notion.so/c724b566205e444bbca9c8bc4b533a0a)
 - 📫 How to reach me: `ckdals12345678@gmail.com`
 - 🏢 I'm currently working on `[ looking forward to... ]`
 - 📄 educated at `인천대학교`, `CodeSquad`
