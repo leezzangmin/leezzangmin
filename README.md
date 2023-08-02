@@ -1,21 +1,21 @@
-### 모두에게서 배우고 개선시키며 성장하는 찾는 개발자 `이창민`입니다  
+### MySQL Database Engineer `이창민`입니다  
 <br>  
 
-- 맹목적인 공부보다 가성비와 목적을 찾는 학습을 좋아합니다.
-- 특히 웹 어플리케이션의 성능에 관심이 많습니다. 웹 병목의 대부분을 차지하는 RDBMS의 깊은 부분을 공부하고 프로젝트의 구조와 쿼리를 튜닝한 후 부하테스트로 결과를 살펴보며 개선의 사이클을 돌립니다.
-- 이에 필요한 CS지식을 끊임없이 공부하고, 기반 지식인 언어를 연습하며 선배 개발자들의 개발서적을 통해 지식을 훔쳐옵니다.
-- 언어에 덜 구애받는 백엔드 공통 언어 MySQL를 특히 좋아합니다. 백엔드 개발자로 필드에서 성장하여 하이브리드 DBA가 되는 것이 꿈입니다.
-- 새로운 지식을 끝까지 파고들어 제 것으로 만들 자신과 경험이 있습니다. 그러나 가진 지식에 구애받지 않는 개발자가 되려 노력합니다.
+- 컴퓨터공학부를 졸업한 후 코드스쿼드 부트캠프에서 자바 백엔드 코스에 참여하여 웹 Java/Spring 생태계 지식을 익혔습니다.
+- 웹 서비스 성능의 대부분을 차지하는 관계형 DB(MySQL)에 흥미가 있어서 클라우드 회사 가비아에서 백엔드/클라우드 개발자로 커리어를 시작한 후, 기회가 되어 카카오스타일에서 MySQL DBA로 전향했습니다.
+- 커머스 도메인 AWS MSA 환경에서의 Aurora MySQL 유지보수 경험(특히 DDL 수행), ISMS-P 보안심사 데이터 마스킹, 데이터 마이그레이션 등의 실무경험을 했습니다.
+- 반복적인 작업을 자동화하는 것에 관심이 많습니다. DBA의 입장에서 반복적이고 정형적인 개발팀의 요청을 자동화하는 DB 백오피스 [개인 프로젝트](https://github.com/leezzangmin/db_automation)를 만들었습니다.
+- 업무에 필요한 도구가 없으면 python, cli 등으로 간단히 만들 수 있는 개발 역량을 갖추고 있습니다.
+- 기술적인 도전과제를 함께 해결할 좋은 DB팀을 만나 성장하여, 성능병목을 해결하는 ‘DB 엔지니어 및 튜너’로 성장할 커리어플랜을 갖고있습니다.
 
 <br>
 
-- 📝 My Resume: [`노션`](https://www.notion.so/c724b566205e444bbca9c8bc4b533a0a)
+- 📝 My Resume: [`노션`](https://www.notion.so/MySQL-DBA-7ee62ef52f724ff49b9a41313fb339d8)
 - 📫 How to reach me: `ckdals12345678@gmail.com`
 - 🏢 I'm currently working on `[ looking forward to... ]`
 - 📄 educated at `인천대학교`, `CodeSquad`
 - 📄 my postings: [`tistory`](https://leezzangmin.tistory.com/)
-- 🌱 I’m currently learning or reading: [`Real MySQL8.0`, `대용량 서비스를 지탱하는 기술`, `오브젝트`, `자바 ORM 표준 JPA 프로그래밍`, `단위 테스트`, `모던 자바 인 액션`]
-- 🤔 I'm interested in `deep RDB(MySQL)`, `program solving`, `java and spring ecosystem`
+- 🤔 I'm interested in `deep RDB(MySQL) + tuning`, `java and spring ecosystem`
 - 😄 aka: `zzangmin`, `kingwangchang min`  
 <br>
 
@@ -48,6 +48,7 @@
 - 인천대학교 컴퓨터공학부 (2016.03 ~ 2022.02)  
    
 <br>
+<!-- 
 
 ### 📄 Books:  
 - [자바의 정석]
@@ -65,7 +66,7 @@
 - [업무에 바로 쓰는 SQL 튜닝]
 - [모두의 네트워크]
 - [가상 면접 사례로 배우는 대규모 시스템 설계 기초]  
-
+-->
 <br>
 <!-- 
 ### 📫 강의:
@@ -84,7 +85,7 @@
 
 ### 📝 회고:  
 - [코드스쿼드 회고 시리즈](https://leezzangmin.tistory.com/category/%ED%9A%8C%EA%B3%A0)
-
+- [13개월 취준 회고](https://leezzangmin.tistory.com/50)
 <!-- </details> -->
 <br>
 
@@ -92,7 +93,7 @@
 ### 🧑‍💻 Repositories:
 
 - [게시판 프로젝트(개인)](https://github.com/leezzangmin/SpringCafeProject)
-
+- [AWS MSA DB 자동화 프로젝트(개인)](https://github.com/leezzangmin/db_automation)
 
 
 <!-- ### Contribution
