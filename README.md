@@ -12,7 +12,7 @@
 
 - 📝 My Resume: [`노션`](https://www.notion.so/DB-1f90412fac1448898ff58ac84016d891)
 - 📫 How to reach me: `ckdals12345678@gmail.com`
-- 🏢 I'm currently working on `가비아 -> 카카오스타일 -> 퓨쳐위즈 `
+- 🏢 I'm currently working on `가비아 -> 카카오스타일 -> 퓨쳐위즈 -> 핀다 -> 아정당`
 - 📄 educated at `인천대학교`, `CodeSquad`
 - 📄 my postings: [`tistory`](https://leezzangmin.tistory.com/)
 - 🤔 I'm interested in `deep RDB(MySQL) + automation + tuning`, `java and spring ecosystem`
